@@ -9,22 +9,19 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+Cree mi primer repositorio, para la página de mi proyecto.
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+Una plataforma web digital en la nube basada en GIT, que permite a los programadores, almacenar, gestionar y colborar en proyectos de codigo fuente.
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
- 
----
+
+ Para almacenar los proyectos que hare en python, y aprender a manejarlos.
  
 ## ✍️ Mi progreso
-Aquí ya realicé varios cambios en GitHub.
- 
----
+Versión 3
  
 ## 👤 Sobre mí
-Nombre: 
-Curso: 
+Nombre: Matias Soria
+Curso: Diploma 1D
  
